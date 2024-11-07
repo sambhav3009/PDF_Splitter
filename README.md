@@ -6,9 +6,7 @@ This is a Python-based script that splits a PDF file into two parts at a specifi
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [Example Output](#example-output)
-- [License](#license)
+
 
 ## Features
 
